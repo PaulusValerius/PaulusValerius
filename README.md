@@ -1,7 +1,7 @@
 ## Hi there 👋
 In 2010, I graduated from Kemerovo University with a degree in applied mathematics and informatics.
 During my studies, I wrote code in C# and Java.
-Currently, I am learning Python and machine learning development skills.
+Currently, I am learning Python and machine learning skills.
 This repository is created to add my projects and format my resume.
 As my knowledge deepens, the repository content and its quality will change.
 How to reach me: https://t.me/PaulusLop
